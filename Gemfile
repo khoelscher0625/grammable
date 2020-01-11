@@ -64,3 +64,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 group :development, :test do
   gem 'rspec-rails', '~> 3.5'
 end
+
+gem 'bootstrap', '~> 4.4.1'
+gem 'jquery-rails'
