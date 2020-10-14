@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Grammable is an Instagram clone. A single page application that compiles images and allows users to comment and post their own photos. 
 
-Things you may want to cover:
+[Grammable} (https://grammable-kathryn-hoelscher.herokuapp.com/)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Grammable Home Page]<img width="740" alt="image" src="https://user-images.githubusercontent.com/56094085/96037615-ae903100-0e2b-11eb-937d-d25b1b642c7e.png">
